@@ -1,0 +1,15 @@
+.icon {
+  color: black;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.iconClicked {
+  color: red;
+}
+
+.bar {
+  display: flex;
+  padding: 5px 10px;
+}
