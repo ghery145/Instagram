@@ -4,7 +4,7 @@ import './ImageBar.css'
 
 function ImageBar() {
   return (
-    <img src={nana} className="image" alt="nana" />
+    <img src={nana} className="Image" alt="nana" />
   );
 }
 

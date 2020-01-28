@@ -1,0 +1,36 @@
+.lala2 {
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.TopBar {
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.User {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+    flex-grow: 1;
+}  
+
+.Ellipsis {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+}
+
+.EllipsisContainer {
+    width: 10%;
+    height: auto;
+}

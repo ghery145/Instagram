@@ -1,0 +1,8 @@
+.MainContent {
+    display: flex;
+    justify-content : center;
+    width: 50%;
+    padding: 10px 10px;
+    height: auto;
+
+}

@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
-import Content from './Content';
+import MainContent from './MainContent';
+
 
 
 function App() {
   return (
     // App == body
     <div className="App">
-      <Content />
+      <MainContent/>
     </div>
   );
 }
