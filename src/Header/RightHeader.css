@@ -1,0 +1,13 @@
+.icons {
+  color: black;
+  width: 30px;
+  height: auto;
+  cursor: pointer;
+  margin-right: 30px;
+}
+
+.right-header {
+  display: flex;
+  padding: 5px 10px;
+
+}

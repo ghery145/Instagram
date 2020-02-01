@@ -1,0 +1,23 @@
+.AddComment {
+    display: flex;
+    justify-content: space-between;
+    color: #B7B7B7;
+    border-top: 1px solid #bfbfbf;
+    box-shadow: 1px 1px 1px #aaa;
+}
+
+.input {
+    border: none;
+    width: 100%;
+    padding: 15px;
+}
+
+.post {
+    border: none;
+    width: 20%;
+    background-color: transparent;
+    cursor: pointer;
+    overflow: hidden;
+    color: violet;
+    font-size: 15px;
+}

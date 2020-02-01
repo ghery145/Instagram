@@ -1,0 +1,42 @@
+.container {
+  border: 1px solid #bfbfbf;
+  box-shadow: 1px 1px 1px #aaa;
+  display: flex;
+  flex-direction: column  ;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.storiesimage {
+    border-radius: 50%;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px 10px 10px;
+}
+
+.stories{
+  display: flex;
+  color: #B2B2B2;
+}
+
+.title {
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
+.container-account {
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    font-size: 13px;
+}

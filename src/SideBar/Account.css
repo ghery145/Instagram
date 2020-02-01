@@ -1,0 +1,26 @@
+.ImageAccountUser {
+    border-radius: 50%;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+}   
+
+.Name {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.Account {
+    padding-bottom: 10%;
+    cursor: pointer;
+    display: flex;
+}
+
+.initial {
+      color: #B2B2B2;
+}

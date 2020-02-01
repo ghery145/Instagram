@@ -1,17 +1,17 @@
-.lala2 {
+.ImageUserTopBar {
     border-radius: 50%;
     width: 10%;
-    height: 10%;
+    height: auto;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    cursor: pointer;
 }
 
 .TopBar {
     padding: 10px 10px;
     display: flex;
-    flex-direction: row;
-    
+    flex-direction: row;    
 }
 
 .User {
@@ -19,7 +19,7 @@
     justify-content: center;
     flex-direction: column;
     margin-left: 10px;
-    flex-grow: 1;
+    flex-grow: 1;  
 }  
 
 .Ellipsis {
@@ -31,6 +31,7 @@
 }
 
 .EllipsisContainer {
-    width: 10%;
+    width: 8%;
     height: auto;
+    cursor: pointer;
 }

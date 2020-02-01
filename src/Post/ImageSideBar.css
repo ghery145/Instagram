@@ -1,15 +1,25 @@
-.icon {
+.Icon {
   color: black;
   width: 35px;
   height: 35px;
   cursor: pointer;
 }
 
-.iconClicked {
+.IconClicked {
   color: red;
 }
 
-.bar {
+.Bar {
   display: flex;
   padding: 5px 10px;
+
+}
+
+.LeftBar {
+  display: flex;
+  flex-grow: 1;
+}
+
+.LeftBar .Icon {
+    margin-right: 10px;
 }
